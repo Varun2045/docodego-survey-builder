@@ -17,7 +17,7 @@
 <br/>
 
 <!-- 🎬 Main Demo Screen -->
-<img src="docs/images/builder.png" alt="DoCoDeGo Survey Builder Canvas" width="800" style="border-radius: 10px; border: 1px solid #e2e8f0;"/>
+<img src="assets/builder.png" alt="DoCoDeGo Survey Builder Canvas" width="800" style="border-radius: 10px; border: 1px solid #e2e8f0;"/>
 
 </div>
 
@@ -71,18 +71,18 @@ It features **Base64 local logo uploader** (bypassing credit card billing restri
 
 ---
 
-<h3 align="center">📷 Application Gallery</h3>
+<h3 align="center">📷 Demos</h3>
 
 <div align="center">
 
 <h4>📈 Summary Analytics & Matrix Heatmaps</h4>
-<img src="docs/images/analytics.png" alt="Response Analytics" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
+<img src="assets/analytics.png" alt="Response Analytics" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
 
 <h4>🛠️ Builder UI & Conditional Branching Rules</h4>
-<img src="docs/images/builder.png" alt="Survey Builder" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
+<img src="assets/builder.png" alt="Survey Builder" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
 
 <h4>📋 Creator Dashboard Overview</h4>
-<img src="docs/images/dashboard.png" alt="Owner Dashboard" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
+<img src="assets/dashboard.png" alt="Owner Dashboard" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
 
 </div>
 
