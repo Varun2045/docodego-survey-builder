@@ -1,0 +1,12 @@
+{
+  "name": "survey-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2024-04-03",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "survey-db",
+      "database_id": "4e0fe87c-e87e-4e55-8cf9-952fa5f78202"
+    }
+  ]
+}

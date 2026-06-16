@@ -1,0 +1,16 @@
+{
+  "name": "docodego-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "check": "pnpm check:biome && pnpm check:types",
+    "check:biome": "biome check .",
+    "check:fix": "biome check --write .",
+    "check:types": "pnpm -r exec tsc --noEmit",
+    "dev": "pnpm -r --parallel dev"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.8.3",
+    "typescript": "^5.5.4"
+  }
+}
