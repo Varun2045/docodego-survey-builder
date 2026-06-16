@@ -7,9 +7,16 @@ A modern, serverless survey builder and response analyzer clone (similar to Type
 
 ---
 
-## 🚀 Recommended Repository Name
-*   `docodego-survey-builder`
-*   `cloudflare-branded-surveys`
+## 🖼️ Application Screenshots
+
+### 📈 Response Summary & Analytics
+![Response Analytics](docs/images/analytics.png)
+
+### 🛠️ Builder Canvas & Style Settings
+![Survey Builder](docs/images/builder.png)
+
+### 📊 Owner Dashboard
+![Owner Dashboard](docs/images/dashboard.png)
 
 ---
 
@@ -36,9 +43,7 @@ A modern, serverless survey builder and response analyzer clone (similar to Type
     *   Omitted hidden inputs from final submission payload.
 3.  **Base64 Logo uploads:** Images are read locally using `FileReader` and saved directly in SQLite (D1), bypassing Cloudflare R2's credit card billing activation requirement.
 4.  **Summary Response Analytics:**
-    *   Aggregated counts and average ratings.
-    *   Progress bars showing option percentage splits.
-    *    Tabular heatmap rendering for Matrix Grid selections.
+    *   Calculates rating averages, computes option percentages, and renders color-weighted heatmaps for Matrix Grid selections.
 5.  **CSV spreadsheet Export:**
     *   RFC 4180 compliant CSV exports.
     *   **CSV Injection Protection:** Sanitizes fields by escaping Excel-run formula characters (`=`, `+`, `-`, `@`) to protect survey owners from security exploits.
