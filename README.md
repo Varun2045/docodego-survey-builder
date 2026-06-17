@@ -39,6 +39,20 @@ It features **Base64 local logo uploader** (bypassing credit card billing restri
 
 ---
 
+<h3 align="center">🚀 Live Demo</h3>
+
+<div align="center">
+
+You can access and test the hosted application live in your browser:
+
+<p><b>👉 <a href="https://3db5ca7d.docodego-survey.pages.dev">https://3db5ca7d.docodego-survey.pages.dev</a></b></p>
+
+*Feel free to register a new account, build surveys, configure branding styles, and test submissions.*
+
+</div>
+
+---
+
 <h3 align="center">✨ Features</h3>
 
 <div align="center">
