@@ -17,7 +17,7 @@
 <br/>
 
 <!-- 🎬 Main Demo Screen -->
-<img src="assets/builder.png" alt="DoCoDeGo Survey Builder Canvas" width="800" style="border-radius: 10px; border: 1px solid #e2e8f0;"/>
+<img src="assets/Survey Dashboard.png" alt="DoCoDeGo Survey Builder Dashboard" width="800" style="border-radius: 10px; border: 1px solid #e2e8f0;"/>
 
 </div>
 
@@ -89,14 +89,28 @@ You can access and test the hosted application live in your browser:
 
 <div align="center">
 
-<h4>📈 Summary Analytics & Matrix Heatmaps</h4>
-<img src="assets/analytics.png" alt="Response Analytics" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
+<h4>🔒 Secure Authentication</h4>
+<img src="assets/Secure Authentication.png" alt="Secure Authentication" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
 
-<h4>🛠️ Builder UI & Conditional Branching Rules</h4>
-<img src="assets/builder.png" alt="Survey Builder" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
+<h4>📝 Public Survey Form</h4>
+<img src="assets/Survey Form.png" alt="Survey Form" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
 
-<h4>📋 Creator Dashboard Overview</h4>
-<img src="assets/dashboard.png" alt="Owner Dashboard" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
+<h4>📋 Survey Owner Dashboard</h4>
+<img src="assets/Survey Dashboard.png" alt="Survey Dashboard" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
+
+<h4>🛠️ Builder Canvas (Add Fields & Branding Styles)</h4>
+<img src="assets/Add Fields.png" alt="Add Fields" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 12px;"/>
+<br/>
+<img src="assets/Branding Style.png" alt="Branding Style" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
+
+<h4>🗃️ Individual Responses Spreadsheet</h4>
+<img src="assets/Individual Response.png" alt="Individual Response" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
+
+<h4>📈 Summary Analytics & Charts</h4>
+<img src="assets/Summary Analytics.png" alt="Summary Analytics" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
+
+<h4>📥 Data Cleaned CSV Export</h4>
+<img src="assets/Export CSV.png" alt="Export CSV" width="750" style="border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px;"/>
 
 </div>
 
