@@ -16,8 +16,8 @@
 
 <br/>
 
-<!-- 🎬 Main Demo Screen -->
-<img src="assets/Survey Dashboard.png" alt="DoCoDeGo Survey Builder Dashboard" width="800" style="border-radius: 10px; border: 1px solid #e2e8f0;"/>
+<!-- 🎬 DoCoDeGo Demo -->
+<img src="assets/demo.gif" alt="DoCoDeGo Survey Builder Demo" width="800" style="border-radius: 10px; border: 1px solid #e2e8f0;"/>
 
 </div>
 
