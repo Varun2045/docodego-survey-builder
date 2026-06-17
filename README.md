@@ -195,8 +195,6 @@ npx wrangler deploy
 
 <h3 align="center">🔍 Troubleshooting & Common Errors</h3>
 
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></div>
-
 <div align="center">
 
 | Error / Problem | Cause | How to Fix |
@@ -207,7 +205,6 @@ npx wrangler deploy
 
 </div>
 
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></div>
 
 <h3 align="center">📄 License</h3>
 
